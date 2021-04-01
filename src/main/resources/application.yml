@@ -1,4 +1,12 @@
-management.endpoints.web.exposure.include: httptrace
+management:
+  endpoints:
+    web:
+      exposure:
+        include: httptrace
+  trace:
+    http:
+      include: request-headers,response-headers,cookie-headers,principal,time-taken,authorization-header,remote-address,session-id
+      tracebody: true
 
 spring:
   security:
