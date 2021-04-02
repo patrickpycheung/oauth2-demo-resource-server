@@ -19,7 +19,6 @@ Note:
 Git Repository for the client application:
 <br/>
 https://github.com/patrickpycheung/oauth2-demo-client
-
 <br/>
 <br/>
 <img src="https://bn1301files.storage.live.com/y4mTBfiib2UCkcdu7XOxbV7uh9TPz_o-jCeBZdf-lTzdWEqbJdz6lueBVNNCvmM71E6n-sUDG3bMmd7xMFbhooFMROxwZMn1uMhhQGq4os6KkiK6o-Yoejxyet9Pp8oOID_0UpXpHormxaiMeqmQFMczTuizVkncMEgBuU0pDlOiO0IBJGz1REZ_12es8L-5rPS?width=848&height=218&cropmode=none" alt="Sample_Response_To_Client">
