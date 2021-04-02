@@ -10,7 +10,7 @@
 This application is a demonstration of implementing a Spring Boot resource server application secured with OAuth2. It performs the following:
 
   * Secures all HTTP access, unless whitelisted otherwise
-  * Validates the cryptographic signature of the access token passed by the client
+  * Validates the cryptographic signature of the access token (JWT token) passed by the client
   * Performs the actual business logic, and return the result to the client
 <br/>
 <br/>
